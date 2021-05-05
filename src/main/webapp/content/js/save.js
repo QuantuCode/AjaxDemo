@@ -1,8 +1,6 @@
 //var id = document.getElementById('student_id_input').val();
 //var name = document.getElementById('student_name_input').val();
 
-// this line is added
-
 function init_save_student(){
 	$(".add_save").click(function(){	
 		console.log("add_save");
